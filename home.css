@@ -1,0 +1,25 @@
+/* Home Page Styles */
+.tag_line {
+  text-align: center;
+  padding: 50px 0;
+  background-color: rgb(255, 218, 185);
+}
+h1 {
+  font-weight: 900;
+}
+
+h3 {
+  font-weight: 900;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+
+img {
+  width: 100%;
+}

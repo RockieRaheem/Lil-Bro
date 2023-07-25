@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 5px;
+  font-family: Arial, sans-serif;
+  color: Mine Shaft;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+}
+
+header {
+  padding: 20px;
+  background-image: url("Images/flower3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: red;
+  font-weight: 900;
+  font-size: 20px;
+  padding: 5px;
+  text-decoration: underline;
+}
+
+nav ul li a:hover {
+  color: Coral;
+}
+
+/*Headers*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(242, 103, 34);
+  font-family: "Playfair Display", serif;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  background-color: rgb(242, 103, 34);
+  padding: 10px;
+  font-size: 12px;
+  color: Boulder;
+}

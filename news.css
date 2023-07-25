@@ -1,0 +1,34 @@
+/* News Page Styles */
+
+
+.latest_news {
+  text-align: center;
+  padding: 50px 0;
+  background-color: rgb(255, 248, 220);
+}
+
+.social_media {
+  text-align: center;
+  padding: 20px;
+}
+
+.img {
+  width: 100%;
+}
+
+.social_icons {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.social_icons li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social_icons img {
+  width: 30px;
+  height: auto;
+}

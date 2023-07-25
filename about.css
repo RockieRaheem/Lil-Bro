@@ -1,0 +1,39 @@
+/* About Us Page Styles */
+.company_description {
+  text-align: center;
+  padding: 50px 0;
+  background-color: rgb(245, 222, 179);
+}
+
+.management_team {
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.company_profile {
+  text-align: center;
+  padding: 20px;
+}
+
+.team_video {
+  text-align: center;
+  padding: 20px;
+}
+
+.video {
+  width: 400px;
+}
+
+.tittles {
+  text-align: center;
+}
+
+h1,
+h2,
+footer {
+  margin-top: 20px;
+}
